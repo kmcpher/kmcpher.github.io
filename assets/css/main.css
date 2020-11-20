@@ -7,11 +7,11 @@
  * URL: http://blacktie.co
  */
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Poppins:400,500);
 
 body {
   	background-color: #ffffff;
-  	font-family: 'Montserrat', sans-serif;
+  	font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #555;
@@ -22,8 +22,8 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
+	font-family: 'Poppins', sans-serif;
+    font-weight: 500;
     color: #333;
 }
 
